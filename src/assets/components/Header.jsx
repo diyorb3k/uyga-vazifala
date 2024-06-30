@@ -7,7 +7,7 @@ const Header = () => {
     <div className="container">
       <div className="header">
         <h1>USERS</h1>
-        <FaUser className="icons" size={100} />
+        <FaUser  id="usericon1" className="icons" size={100} />
       </div>
     </div>
   );
